@@ -6,7 +6,7 @@ https://www.penta-code.com/custom-fetch-hook-with-react-hooks/
 
 ## ランダムでユーザー名・画像をfetchしてくる
 
-![]()
+![](https://github.com/tutu-tonton/React-Hooks-CustomHook-useFetch/blob/master/Jul-06-2020%2016-15-22.gif)
 
 ---
 
