@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 import './App.css';
 
 function useFetch(url, defaultResponse) {
@@ -43,7 +43,7 @@ export default function App() {
 	return (
 		<div className="App">
 			<header className="App-header">
-				<img src={logo} className="App-logo" alt="logo" />
+				{/* <img src={logo} className="App-logo" alt="logo" /> */}
 				<div>
 					<h3>
 						Name: {first_name} {last_name}
